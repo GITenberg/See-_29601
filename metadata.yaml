@@ -1,0 +1,32 @@
+_repo: See-_29601
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ashman, William
+    alias: Ashman
+    gutenberg_agent_id: '33729'
+    url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robles, Edward G.
+    gutenberg_agent_id: '34021'
+    url: http://www.gutenberg.org/2009/agents/34021
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: See?
+url: http://www.gutenberg.org/ebooks/29601
